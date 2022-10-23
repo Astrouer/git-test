@@ -9,5 +9,6 @@ package com.astro;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("这是第一行测试代码 请检查并提交金宝,谢谢");
+        System.out.println("这是第二行测试代码 请检查并提交金宝,谢谢");
     }
 }
